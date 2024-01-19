@@ -1,0 +1,29 @@
+{
+	"name": "gapi",
+	"version": "0.1.0",
+	"private": true,
+	"main": "server.js",
+	"scripts": {
+		"lint": "eslint .",
+		"dev": "nodemon server.js",
+		"lint:fix": "eslint --fix --ext .js,.jsx .",
+		"prettier": "prettier --write '**/*.{js,jsx,ts,tsx,json,css,scss}'",
+		"serverless": "nodemon --exec serverless offline start --disableCookieValidation --httpPort 8080"
+	},
+	"dependencies": {
+		"@google-cloud/local-auth": "^2.1.0",
+		"body-parser": "^1.20.2",
+		"cors": "^2.8.5",
+		"dotenv": "^16.3.1",
+		"express": "^4.18.2",
+		"googleapis": "^105.0.0",
+		"serverless-http": "^3.2.0"
+	},
+	"devDependencies": {
+		"eslint": "^8.32.0",
+		"eslint-config-google": "^0.14.0",
+		"nodemon": "^2.0.22",
+		"prettier": "^2.8.3",
+		"serverless-offline": "^13.2.0"
+	}
+}

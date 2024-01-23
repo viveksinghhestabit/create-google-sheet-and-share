@@ -1,0 +1,230 @@
+{
+  "_id": "65a0ef66bce67cf0f5a5b4ed",
+  "claimNumber": "123654789",
+  "contentImageCapturedBy": {
+    "_id": "659f8b0c777d60d4c6cad7fd",
+    "name": "Nesciunt quaerat cu Sed harum eum eaque "
+  },
+  "adjustor": {
+    "_id": "659f8b0c777d60d4c6cad7fd",
+    "name": "Nesciunt quaerat cu Sed harum eum eaque "
+  },
+  "assigned": {
+    "_id": "659f8b0c777d60d4c6cad7fd",
+    "name": "Nesciunt quaerat cu Sed harum eum eaque "
+  },
+  "lossType": "Flood",
+  "insuranceProvider": "Hello ",
+  "status": 2,
+  "lang": 77.38404609311625,
+  "latt": 28.631201747924585,
+  "location": "247/32, D Block, Sector 63, Noida, Uttar Pradesh 201301, India",
+  "addedBy": "659f8b0c777d60d4c6cad7fd",
+  "isStart": true,
+  "reviewStarted": true,
+  "createdAt": "2024-01-12T07:51:02.174Z",
+  "client": {
+    "_id": "659f8b67777d60d4c6cad81c",
+    "firstName": "Qui",
+    "lastName": "Totam excepturi veli",
+    "email": "bebu@mailinator.com",
+    "mobileNumber": "9999999999",
+    "name": "Qui Totam excepturi veli"
+  },
+  "rooms": [
+    {
+      "_id": "65a0f4ebbce67cf0f5a5b645",
+      "name": "Basement",
+      "createdAt": "2024-01-12T08:14:35.497Z",
+      "images": {
+        "_id": "65a0f4ebbce67cf0f5a5b647",
+        "location": "247/32, D Block, Sector 63, Noida, Uttar Pradesh 201301, India",
+        "room": "65a0f4ebbce67cf0f5a5b645",
+        "images": [
+          {
+            "id": "JgwMKg",
+            "url": "https://icontetpro-dev.s3.amazonaws.com/uploads/65a0ef66bce67cf0f5a5b4ed/Basement/image_1705047052233.jpeg"
+          }
+        ],
+        "selectedImageUrl": "https://icontetpro-dev.s3.amazonaws.com/uploads/65a0ef66bce67cf0f5a5b4ed/Basement/image_1705047052233.jpeg",
+        "description": "Dev wants ",
+        "brand": "Dev is ",
+        "model": "Dev is ",
+        "month": "2",
+        "year": "3",
+        "quantity": "2",
+        "action": "Replace",
+        "conditions": "Above Average",
+        "receipt": "",
+        "lang": 77.38409047814613,
+        "latt": 28.631173237677704,
+        "selectedImage": "JgwMKg",
+        "content": "Basement",
+        "response": [
+          {
+            "id": 2650,
+            "description": "Alienware AW3423DW Curved Gaming Monitor 34.18\" Quantom Dot-OLED 175Hz - White",
+            "website": "https://www.walmart.com/ip/Alienware-AW3423DW-34-18-inch-Quantom-Dot-OLED-Curved-Gaming-Monitor-3440x1440-pixels-at-175Hz-Lunar-Light-Renewed/2214318446",
+            "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQcefnjsRd4vRxOmV2kUq_XhbSQE3tb-F4MQevfbqZgfNej6KAnRN9fRc4sZb6QNHKduihZxS3ckKml_DwynxgAiZrj_gCL6NZc78KC&usqp=CAE",
+            "specs": "",
+            "image_bytes": "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\n",
+            "estimated_price": "$914.95"
+          }
+        ],
+        "isProcessed": true,
+        "createdAt": "2024-01-12T08:14:35.589Z",
+        "updatedAt": "2024-01-12T08:15:53.345Z",
+        "__v": 0,
+        "responsePrice": "$914.95"
+      }
+    },
+    {
+      "_id": "65a0f4ebbce67cf0f5a5b649",
+      "name": "Bedroom",
+      "createdAt": "2024-01-12T08:14:35.686Z",
+      "images": {
+        "_id": "65a0f4ebbce67cf0f5a5b64b",
+        "location": "247/32, D Block, Sector 63, Noida, Uttar Pradesh 201301, India",
+        "room": "65a0f4ebbce67cf0f5a5b649",
+        "images": [
+          {
+            "id": "Hkz23B",
+            "url": "https://icontetpro-dev.s3.amazonaws.com/uploads/65a0ef66bce67cf0f5a5b4ed/Bedroom/image_1705046630687.jpeg"
+          }
+        ],
+        "selectedImageUrl": "https://icontetpro-dev.s3.amazonaws.com/uploads/65a0ef66bce67cf0f5a5b4ed/Bedroom/image_1705046630687.jpeg",
+        "description": "Hello there is ",
+        "brand": "Hello there is ",
+        "model": "Hello there is ",
+        "month": "4",
+        "year": "4",
+        "quantity": "2",
+        "action": "Clean",
+        "conditions": "Above Average",
+        "receipt": "",
+        "lang": 77.38405864745616,
+        "latt": 28.631271323592724,
+        "selectedImage": "Hkz23B",
+        "content": "Bedroom",
+        "response": [
+          {
+            "id": 2661,
+            "description": "14\"x10\" Hello There Neon Sign Light Lamp Handmade Glass Gift Wall",
+            "website": "https://www.ebay.com/itm/276141327393",
+            "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQT_x-NkxE_z1eGDDNR91GvZFNuiTCLLAG5urMAfY0gH1riNX8Qfpy46D7hE86PR7SgL0u8GHLIVLfSsubP_I11GSHLZZ7ere6h_ryr8c19OBq6sHuF0X0&usqp=CAE",
+            "specs": "",
+            "image_bytes": "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\n",
+            "estimated_price": "$79.98"
+          }
+        ],
+        "isProcessed": true,
+        "createdAt": "2024-01-12T08:14:35.786Z",
+        "updatedAt": "2024-01-12T08:16:04.512Z",
+        "__v": 0,
+        "responsePrice": "$79.98"
+      }
+    },
+    {
+      "_id": "65a0f4ebbce67cf0f5a5b649",
+      "name": "Bedroom",
+      "createdAt": "2024-01-12T08:14:35.686Z",
+      "images": {
+        "_id": "65a0f4ebbce67cf0f5a5b64d",
+        "location": "266, Block D, Sector 63, Noida, Uttar Pradesh 201301, India",
+        "room": "65a0f4ebbce67cf0f5a5b649",
+        "images": [
+          {
+            "id": "ud1J4R",
+            "url": "https://icontetpro-dev.s3.amazonaws.com/uploads/65a0ef66bce67cf0f5a5b4ed/Bedroom/image_1705047204790.jpeg"
+          }
+        ],
+        "selectedImageUrl": "https://icontetpro-dev.s3.amazonaws.com/uploads/65a0ef66bce67cf0f5a5b4ed/Bedroom/image_1705047204790.jpeg",
+        "description": "Hello there ",
+        "brand": "Hello there ",
+        "model": "Hello there ",
+        "month": "2",
+        "year": "3",
+        "quantity": "2",
+        "action": "Replace",
+        "conditions": "Above Average",
+        "receipt": "",
+        "lang": 77.3840794816387,
+        "latt": 28.631308647906867,
+        "selectedImage": "ud1J4R",
+        "content": "Bedroom",
+        "response": [
+          {
+            "id": 2665,
+            "description": "14\"x10\" Hello There Neon Sign Light Lamp Handmade Glass Gift Wall",
+            "website": "https://www.ebay.com/itm/276141327393",
+            "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQT_x-NkxE_z1eGDDNR91GvZFNuiTCLLAG5urMAfY0gH1riNX8Qfpy46D7hE86PR7SgL0u8GHLIVLfSsubP_I11GSHLZZ7ere6h_ryr8c19OBq6sHuF0X0&usqp=CAE",
+            "specs": "",
+            "image_bytes": "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\n",
+            "estimated_price": "$79.98"
+          }
+        ],
+        "isProcessed": true,
+        "createdAt": "2024-01-12T08:14:35.879Z",
+        "updatedAt": "2024-01-12T08:16:14.993Z",
+        "__v": 0,
+        "responsePrice": "$79.98"
+      }
+    },
+    {
+      "_id": "65a0f4ebbce67cf0f5a5b649",
+      "name": "Bedroom",
+      "createdAt": "2024-01-12T08:14:35.686Z",
+      "images": {
+        "_id": "65a0f4ecbce67cf0f5a5b64f",
+        "location": "247/32, D Block, Sector 63, Noida, Uttar Pradesh 201301, India",
+        "room": "65a0f4ebbce67cf0f5a5b649",
+        "images": [
+          {
+            "id": "dphHZR",
+            "url": "https://icontetpro-dev.s3.amazonaws.com/uploads/65a0ef66bce67cf0f5a5b4ed/Bedroom/image_1705046515671.jpeg"
+          }
+        ],
+        "selectedImageUrl": "https://icontetpro-dev.s3.amazonaws.com/uploads/65a0ef66bce67cf0f5a5b4ed/Bedroom/image_1705046515671.jpeg",
+        "description": "Hello ",
+        "brand": "Hello ",
+        "model": "Hello ",
+        "month": "3",
+        "year": "2",
+        "quantity": "2",
+        "action": "Replace",
+        "conditions": "Above Average",
+        "receipt": "",
+        "lang": 77.38410008196124,
+        "latt": 28.63127837624519,
+        "selectedImage": "dphHZR",
+        "content": "Bedroom",
+        "response": [
+          {
+            "id": 2669,
+            "description": "Hello Baby Monitor with Camera and Audio, 1000ft Long Range Video Baby Monitor-No Wifi, Night Vision, Vox Mode-Power Saving, 24AA Portable Travel",
+            "website": "https://www.truegether.com/listing.html",
+            "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTL6Ccf75AGKla4Rj4DHjkTkEH0WX1eGlRwy3264rpbYqMRrFF22M8AcxjR4sL9kDZZmc3YGkbkp49uy_Ogcuy65N36TWVXP3fJ0KHb1MW-eYjhsKtRyxo&usqp=CAE",
+            "specs": "",
+            "image_bytes": "UklGRngEAABXRUJQVlA4IGwEAACwFgCdASpLAEsAPkkQkkkikVFLgCgEhLKAPCzisHgHrVaZLz4/\nsffsr+s3tM1jva+kOnB/Vv9Pw57BW9oce/oH+q43O41/1XI10APyd6Bn9592nut+fP+17g/6z/8P\nsI+h1+w6uv4BXim56jSn5T9wXO37UkvYem0hZWSMZumEgnsKYnORdDx47q1zXLhgIoiPOYHsJd17\nOtOS7Q+n483mIU0f4qKXY8Ai1vsI0mQyGgXYm/VJ/DsYF+rrOsoAAP7//mIARM1KYYeqGytMnnBo\nN7kOHqsTIv33PALT3aN0QO0GEAj9v9G7XwjueBHaxnee2+r3NBjFrnpdyfdsvbG4P3BR5LwZw6pH\nLAS+JePWO6zoaTNPlEGTDgrQ4+1W4mqUhhq0u5oe15M0x18eIRj+CA+MYWvhqQhvp2eewg97PEYf\ngVe56sr3OIWClYens7Fw0LizZ+Bg8X4iqDxP1K5Fr55ixZAIB9yltyo1T7gMpcCqX/Z8lxV6nWLW\n4AWi05mg3z0Fsz+oqWA+PVvxTn2B64G71uaY7ckbGZt14FIK9yJEFYFVs+33RvTVK4ezqoEDrO+T\nlq/lQ/IB42q/HBBd1t1ACsBbACh9pEct//evRqCGrMYUWMxPVfa9bjPhkz4gPTv9cKs8VquOAhtn\nW7mx8M7SnQqDwsVbPFF3sRaWfdbmJLD9Dvy7ppX8JH82sQ3p3sJyoVXWu5L1nz8mp/Cveen+Cr6w\nCGrqBOB4h/Cg49N9uXi/LADGXwo/FlwyN/YPnzKPQ5MFfvD2eoOt/CV5iRS2IIPyWfPdHdH9rmvR\nGWjtswWukreopyOplfcpDyEW95Rp3OJ/f7/4jbd4uDI9mdIlD2rV5Y7i70vvPdWnp51HwHe/8k30\nfyO/tGW/NNbgn82ORQ7FP3VVr8Bbd+i4vlwGrAUAJO5dx9JTa8Or4JvQdAX726XGR/J2wK7Q95UE\nHCq6UN1JMBw+XVv4rzXbiGTtMqukYxz3ulWC99hgXW9APtbgJ9eGP5iKCIBZHS3nsm0sLJUvREa0\nShjZg0h99Gh5jey+EUuafc+qtZB2lJWaH05kviJ4dBgD3a6T6g/EUkUmrrEiGZ/onXJo1DcD/Dta\nEZMdA6uCYKMA7iwT7PNAmWaczuKC3zAgpasY/k6YUqwCQkvy62cfVcM3ZW8PLSCMopI35nPgWLNF\n1rJSS3/9X38I2p+LC1if+HxuCVounkQVJpavNzZtOaNSOJB8lEY9DqRfj080cLppgXyc9/gSQ20z\nsAis+J515O0gQKcdF7weM6D/nj/DKK+ZzBn0xuX/voXTFQb77o7aMqP46iYeYu20tUEUZC/2fNwA\nA52uBUf4C7/FZGBJLygNNHA4BXlmpEr6Pvf18lg0ec22UmNuWsT7n3MnO6laefDCR5sYtRNpuZqZ\ndzn8JgakmbjDhImR8lOd4pt/4NSNJzIqe3kPtiFs017RHRfE/z/0jlNshlPv3oNB4jM//M9Fxven\na58tkjX9q5DgAAAA\n",
+            "estimated_price": "$35.99"
+          }
+        ],
+        "isProcessed": true,
+        "createdAt": "2024-01-12T08:14:36.043Z",
+        "updatedAt": "2024-01-12T08:16:25.650Z",
+        "__v": 0,
+        "responsePrice": "$35.99"
+      }
+    }
+  ],
+  "actualCashValue": 1110.9,
+  "replacementCostValue": 1110.9,
+  "allrooms": [
+    {
+      "roomName": "Basement"
+    },
+    {
+      "roomName": "Bedroom"
+    }
+  ]
+}

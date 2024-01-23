@@ -22,7 +22,7 @@ app.use(
 );
 app.use(Routes);
 
-app.listen(5000, () => {
+app.listen(2000, () => {
 	console.log('Server is running...');
 });
 

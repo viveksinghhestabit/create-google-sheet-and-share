@@ -12,6 +12,7 @@ const SCOPES = [
     'https://www.googleapis.com/auth/drive.file',
     'https://www.googleapis.com/auth/drive.appdata',
     'https://www.googleapis.com/auth/drive.metadata',
+    'https://www.googleapis.com/auth/documents',
 ];
 const TOKEN_PATH = path.join(process.cwd(), 'token.json');
 const CREDENTIALS_PATH = path.join(process.cwd(), 'credentials.json');

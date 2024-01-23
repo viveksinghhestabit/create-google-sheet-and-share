@@ -1,1 +1,0 @@
-https://medium.com/@a.marenkov/how-to-get-credentials-for-google-sheets-456b7e88c430

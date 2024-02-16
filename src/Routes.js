@@ -4,6 +4,7 @@ const { authorize, sheet, googleDrive } = require('./GoogleAuth/auth.js');
 const path = require('path');
 const fs = require('fs');
 const stream = require('stream');
+const { google } = require('googleapis');
 
 
 router.get('/', (req, res) => {
@@ -12,6 +13,7 @@ router.get('/', (req, res) => {
 
 router.post('/create-sheet', async (req, res) => {
     const { sheetName, email } = req.body;
+    console.log(sheetName, email);
     const client = await authorize();
     const sheets = await sheet(client);
     const spreadsheetResource = {
@@ -184,8 +186,9 @@ router.post('/import-excel-sheet-in-google-sheet', async (req, res) => {
         }
     }
 
-    const sheetPath = path.join(process.cwd(), 'sheet.xlsx');
-    const file = await fs.readFile(sheetPath);
+    const sheetPath = path.join(process.cwd() + '/mern', './../sheet.xlsx');
+    console.log('sheetPath', sheetPath);
+    const file = await fs.readFileSync(sheetPath);
     const fileMetadata = {
         name: 'sheet.xlsx',
         mimeType: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',

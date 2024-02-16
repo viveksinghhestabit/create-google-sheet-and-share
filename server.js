@@ -5,7 +5,7 @@ const express = require('express');
 const cors = require('cors');
 const app = express();
 const Routes = require('./src/Routes');
-
+const socket = require('./src/WebSocket/Socket');
 
 app.use(cors());
 app.use(
@@ -22,7 +22,9 @@ app.use(
 );
 app.use(Routes);
 
-app.listen(2000, () => {
+const server = require('http').createServer(app);
+socket(server);
+server.listen(2000, () => {
 	console.log('Server is running...');
 });
 
